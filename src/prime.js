@@ -1,8 +1,8 @@
 /**
- * Getter/Setter
+ * Prime number generator
  *
  * @author Alberto Arena <arena.alberto@gmail.com>
- * @licence MIT https://github.com/albertoarena/gettersetter/blob/master/LICENSE-MIT
+ * @licence MIT https://github.com/albertoarena/prime/blob/master/LICENSE-MIT
  *
  */
 define([], function () {
