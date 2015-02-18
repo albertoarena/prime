@@ -20,7 +20,7 @@ define([], function () {
      *
      * @param {number} start                    start, can be negative
      * @param {number} count                    count of primes returned
-     * @param {number|undefined} maxPrime       max prime, only if start is positive
+     * @param {number|undefined} maxPrime       max prime (only positive)
      * @returns {Array}
      */
     function getPrimes(start, count, maxPrime) {
