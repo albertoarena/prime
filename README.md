@@ -36,3 +36,5 @@ You can specify the maximum prime number allowed:
     # ==> [2, 3, 5, 7, 11, 13, 17, 19]
 
 If the maximum prime is negative, it will be ignored.
+
+**Working sample on [JSFiddle](http://jsfiddle.net/albertoarena/j1g1L3kk/4/).**
